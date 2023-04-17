@@ -1,7 +1,7 @@
 # KODLUYORUZ İLK REPO
 ---
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de web.html barındırıyor.
-![](2023-04-16 06_37_53-Create_a_New_Repository.png)
+![](2023-04-16 06_37_53-Create a New Repository.png)
 
 ## Installation
 ---
