@@ -1,11 +1,14 @@
 # KODLUYORUZ İLK REPO
 ---
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de web.html barındırıyor.
-![screenshot](2023-04-16 06_37_53-Create a New Repository.png)
+![](2023-04-16 06_37_53-Create_a_New_Repository.png)
 
 ## Installation
 ---
-Öncelikle projeyi klonlayın. git clone https://github.com/iremelif/kodluyoruzilkrepo.git
+Öncelikle projeyi klonlayın. 
+```
+git clone https://github.com/iremelif/kodluyoruzilkrepo.git
+```
 
 ## Usage
 ---
@@ -23,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Licence
 ---
-[https://choosealicense.com/licenses/mit/](MIT)
+[MIT](https://choosealicense.com/licenses/mit/)
